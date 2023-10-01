@@ -1,3 +1,3 @@
 # lab1_web
 
-![](Screenshot.png)
+![image](Screenshot.png)
